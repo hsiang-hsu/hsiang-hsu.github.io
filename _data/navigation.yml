@@ -3,7 +3,7 @@ main:
   - title: "学术成果"
     url: /publications/
 
-  - title: "Talks"
+  - title: "研究方向"
     url: /talks/    
 
   - title: "讲授课程"
@@ -18,5 +18,5 @@ main:
   - title: "个人简历"
     url: /cv/
     
-  - title: "Guide"
+  - title: "研究成果"
     url: /markdown/
