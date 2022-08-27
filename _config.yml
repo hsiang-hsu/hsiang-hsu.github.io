@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Academic" 
 title_separator          : "-"
-name                     : "徐祥（Xiang XU）"
+name                     : #"徐祥（Xiang XU）"
 description              : "Home page"
 url                      : "https://hsiang-hsu.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
