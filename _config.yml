@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Academic" 
+title                    : "徐祥 / Academic" 
 title_separator          : "-"
-name                     : #"徐祥（Xiang XU）"
-description              : "Home page"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : "https://hsiang-hsu.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsiang-hsu/hsiang-hsu.github.io"
