@@ -1,59 +1,77 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+教育经历（Education）
+=====================
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014年9月—2018年6月 东南大学仪器科学与工程学院 博士研究生
+* 2011年9月—2014年6月 哈尔滨工程大学自动化学院  硕士研究生
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+工作经历（Work experience）
+===========================
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+* 2022年2月: 副教授
+
+  * 南京理工大学，自动化学院
+  * 教学/ 科研
+  * 多源信息融合系统研究与开发
+* 2021年8月—2022年1月: 副研究员
+
+  * 苏州大学，电子信息学院
+  * 教学/ 科研
+  * 惯性导航初始对准，极区导航，导航系统设计
+* 2018年8月—2021年7月: 助理研究员
+
+  * 苏州大学，电子信息学院
+  * 教学/ 科研
+  * 惯性导航初始对准，极区导航，导航系统设计
+
+工作技能（Skills）
+==================
+
+* 系统开发
+  * MDK
+  * CCS
+  * Altium Designer
+* 嵌入式开发
+  * VxWorks
+  * Free-RTOS
+  * RT-Thread
+  * uCOS
+* 计算机语言
+  * C/C++
+  * Matlab
+  * Python
+
+学术成果（Publications）
+========================
+
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
-======
-  <ul>{% for post in site.talks %}
+=====
+
+<ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+
+讲授课程（Teaching）
+====================
+
+<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
-======
+======================
+
 * Currently signed in to 43 different slack teams

@@ -24,17 +24,17 @@ redirect_from:
 2018年8月—2021年7月	苏州大学电子信息学院	助理研究员
 
 教育经历
---------
+========
 
 2014年9月—2018年6月	东南大学仪器科学与工程学院	博士研究生
 
 2011年9月—2014年6月	哈尔滨工程大学自动化学院	硕士研究生
 
 招生信息
---------
+========
 
 
 学术兼职
---------
+========
 
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
