@@ -8,12 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-教育经历（Education）
-=====================
-
-* 2014年9月—2018年6月 东南大学仪器科学与工程学院 博士研究生
-* 2011年9月—2014年6月 哈尔滨工程大学自动化学院  硕士研究生
-
 工作经历（Work experience）
 ===========================
 
@@ -33,6 +27,12 @@ redirect_from:
   * 教学/ 科研
   * 惯性导航初始对准，极区导航，导航系统设计
 
+教育经历（Education）
+=====================
+
+* 2014年9月—2018年6月 东南大学仪器科学与工程学院 博士研究生
+* 2011年9月—2014年6月 哈尔滨工程大学自动化学院  硕士研究生
+
 工作技能（Skills）
 ==================
 
@@ -49,29 +49,3 @@ redirect_from:
   * C/C++
   * Matlab
   * Python
-
-学术成果（Publications）
-========================
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-=====
-
-<ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-讲授课程（Teaching）
-====================
-
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======================
-
-* Currently signed in to 43 different slack teams
