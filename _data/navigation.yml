@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "研究方向"
-    url: /talks/    
+    url: /research/    
 
   - title: "讲授课程"
     url: /teaching/    
@@ -19,4 +19,4 @@ main:
     url: /cv/
     
   - title: "研究成果"
-    url: /markdown/
+    url: /findings/
