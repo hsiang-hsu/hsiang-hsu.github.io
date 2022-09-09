@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "个人简介"
-excerpt: "About me"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# 个人简介
+
 徐祥，江苏南通人，现为南京理工大学自动化学院副教授。主要从事导航系统技术研究，包括惯性导航算法、系统设计，多源融合理论，姿态估计，惯性传感器标定及阵列传感器技术等。
 
 学术成果
@@ -33,8 +34,5 @@ redirect_from:
 招生信息
 ========
 
-
 学术兼职
 ========
-
-
