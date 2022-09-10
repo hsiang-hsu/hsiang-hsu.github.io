@@ -3,6 +3,8 @@ layout: archive
 title: " "
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications
 ---
 ## 学术论文（Papers）
 
