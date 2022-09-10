@@ -8,7 +8,17 @@ redirect_from:
 ---
 ## 阵列式微传感系统
 
-……
+六轴阵列微惯性传感器
+
+<div align=center>
+	<img src=".\pic\图标08.png" style="zoom:50%;" />
+</div>
+
+九轴阵列微惯性传感器
+
+
+
+
 
 ## 微惯导组合导航系统
 
