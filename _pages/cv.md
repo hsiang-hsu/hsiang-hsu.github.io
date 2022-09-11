@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
-
 工作经历（Work experience）
 ===========================
 
