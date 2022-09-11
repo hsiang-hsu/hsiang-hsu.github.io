@@ -6,6 +6,13 @@ author_profile: true
 redirect_from:
   - /publications
 ---
+科研项目
+========
+
+1. 国家自然科学基金面上基金，统一建模理论下SINS/DVL组合系统全域自主抗差导航方法研究与实现（52271346），2023.01~2026.12，主持人，在研。
+2. 装备预先研究项目（一般基金），极区水下长航时惯性导航新方法研究（61405170207），2019.09~2021.05，主持人，已结题。
+3. 国家自然科学基金青年基金，基于多种矢量视运动分析的抗干扰行进间粗对准方法研究（61803278），2019.01~2021.12，主持人，已结题。
+
 ## 学术论文（Papers）
 
 1. **Xu Xiang**, Ning Xiuli, Yao Yiqing, Li Kui. In-motion Coarse Alignment Method for SINS/GPS Integration in Polar Region [J]. **IEEE Transactions on Vehicular Technology**, 2022, 71(6): 6110-6118.
