@@ -6,7 +6,14 @@ author_profile: true
 redirect_from:
   - /publications
 ---
-## 学术论文（Papers）
+科研项目
+========
+
+1. 国家自然科学基金面上基金，统一建模理论下SINS/DVL组合系统全域自主抗差导航方法研究与实现（52271346），2023.01~2026.12，主持人，在研。
+2. 装备预先研究项目（一般基金），极区水下长航时惯性导航新方法研究（61405170207），2019.09~2021.05，主持人，已结题。
+3. 国家自然科学基金青年基金，基于多种矢量视运动分析的抗干扰行进间粗对准方法研究（61803278），2019.01~2021.12，主持人，已结题。
+
+# 学术论文
 
 1. **Xu Xiang**, Ning Xiuli, Yao Yiqing, Li Kui. In-motion Coarse Alignment Method for SINS/GPS Integration in Polar Region [J]. **IEEE Transactions on Vehicular Technology**, 2022, 71(6): 6110-6118.
 2. **Xu Xiang**, Sun Yifan, Yao Yiqing and Zhang Tao. A Robust In-Motion Optimization-Based Alignment for SINS/GPS Integration [J], **IEEE Transactions on Intelligent Transportation Systems**, 2022, 23(5): 4362-4372.
@@ -16,7 +23,7 @@ redirect_from:
 6. **Xu Xiang**, Xu Dacheng, Zhang Tao, Zhao Heming. In-motion Coarse Alignment Method for SINS/GPS Using Position Loci[J]. **IEEE Sensors Journal**, 2019, 19(10): 3930-3938.
 7. **Xu Xiang**, Xu Xiaosu, Zhang Tao, Wang Zhicheng. In-Motion Filter-QUEST Alignment for Strapdown Inertial Navigation Systems [J]. **IEEE Transactions on Instrumentation and Measurement**, 2018, 67(8):1979-1993.
 
-## 授权专利（Patents）
+# 授权专利
 
 1. **徐祥**，朱辰霄，黄玲，葛浩冉，赵鹤鸣. 一种极区格网坐标系动基座粗对准方法，2020.07.30-2021.12.07.( 申请号：CN202010751924.0，专利号：ZL202010751924.0，授权公告号：CN111947685B)
 2. **徐祥**，徐大诚，白春风. 模值检测动基座鲁棒对准方法，2019.05.14-2020.12.01. (申请号：CN201910399911.9，专利号：ZL201910399911.9，授权公告号：CN110108301B)
