@@ -9,8 +9,8 @@ main:
   - title: "学生工作"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
