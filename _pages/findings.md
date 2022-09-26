@@ -11,7 +11,7 @@ redirect_from:
 六轴阵列微惯性传感器
 
 <div align=center>
-	<img src="..\images\test.png" style="zoom:50%;" />
+	<img src="..\images\IMUArray18.jpg" style="zoom:50%;" />
 </div>
 
 九轴阵列微惯性传感器
