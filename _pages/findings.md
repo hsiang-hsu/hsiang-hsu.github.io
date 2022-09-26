@@ -10,7 +10,9 @@ redirect_from:
 
 六轴阵列微惯性传感器
 
-`<br/><img src='/images/test.png' style='zoom:50%; text-align:center;' >` 
+<div align=center>
+	<img src="..\images\test.png" style="zoom:50%;" />
+</div>
 
 九轴阵列微惯性传感器
 
