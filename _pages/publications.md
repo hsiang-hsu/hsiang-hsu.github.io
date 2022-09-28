@@ -18,7 +18,7 @@ redirect_from:
 
 # 学术论文
 
-#### 2022 年：
+## 2022 年：
 
 - Xu Tongxu, **Xu Xiang**, Xu Dacheng, Zou Zelan and Zhao Heming. A New Robust Filtering Method of GNSS/MINS Integrated System for Land Vehicle Navigation [J]. **IEEE Transactions on Vehicular Technology**, 2022, Early Access.
 - Huang Ling, **Xu Xiang**, Ge Haoran, Zhao Heming. Single-Axis Rotation Modulation Transverse SINS Based on Virtual Sphere Model in Polar Region [J]. **IEEE Sensors Journal**, 2022, 22(13): 13442-13450.
@@ -29,7 +29,7 @@ redirect_from:
 - Gui Jing, **Xu Xiang**, Zhao Heming. Heading constraint algorithm for Foot-mounted PNS using low-cost IMU [J]. **Journal of Systems Engineering and Electronics**, 2022, 33(3): 727-736.
 - 邹泽兰, 徐同旭, **徐祥**, 赵鹤鸣. 基于两步修正法的MEMS三轴陀螺仪标定方法[J]. **仪器仪表学报**, 2022, 43(04):191-198.
 
-#### 2021 年：
+## 2021 年：
 
 - **Xu Xiang**, Gui Jing, Sun Yifan, Yao Yiqing and Zhang Tao. A Robust In-motion Alignment Method with Inertial Sensors and Doppler Velocity Log [J], **IEEE Transactions on Instrumentation and Measurement**, 2021, 70: 1-13.
 - Yao Yiqing, **Xu Xiang**, Zhang Tao, Hu Gaoge. An Improved Initial Alignment Method for SINS/GPS Integration with Vectors Subtraction [J], **IEEE Sensors Journal**, 2021, 21(16): 18256-18262.
@@ -41,7 +41,7 @@ redirect_from:
 - 葛浩冉, **徐祥**, 黄玲, 赵鹤鸣. 基于虚拟圆球模型的格网SINS/GNSS极区组合导航方法[J]. **导航定位与授时**, 2021, 8(06):81-87.
 - 周晓仁, **徐祥**, 赵鹤鸣. 鲁棒无迹四元数卡尔曼滤波初始对准算法[J]. **传感技术学报**, 2021, 34(12):1622-1630.
 
-#### 2020 年：
+## 2020 年：
 
 - **Xu Xiang**, Guo Zetao, Yao Yiqing and Zhang Tao, Robust Initial Alignment for SINS/DVL Based on Reconstructed Observation Vectors [J], **IEEE/ASME Transactions on Mechatronics**, 2020, 25(3): 1659-1667.
 - **Xu Xiang**, Sun Yifan, Gui Jing, Yao Yiqing and Zhang Tao. A Fast Robust In-motion Alignment method for SINS with DVL Aided [J]. **IEEE Transactions on Vehicular Technology**, 2020, 69(4): 3816-3827.
@@ -55,7 +55,7 @@ redirect_from:
 - **徐祥**, 朱琳, 荆通, 赵鹤鸣. 基于阵列MEMS磁传感器的测量与标定方法[J]. **中国惯性技术学报**, 2020, 28(02): 213-218.
 - 邹泽兰,**徐祥**,徐同旭,赵鹤鸣.一种基于改进型自适应遗传算法的MEMS三轴加速度计标定方法[J].传感技术学报,2020,33(10):1450-1456.
 
-#### 2019 年：
+## 2019 年：
 
 - **Xu Xiang**, Xu Dacheng, Zhang Tao, Zhao Heming. In-motion Coarse Alignment Method for SINS/GPS Using Position Loci[J]. **IEEE Sensors Journal**, 2019, 19(10): 3930-3938.
 - **Xu Xiang**, Lu Jiayi, and Zhang Tao. A Fast-Initial Alignment Method With Angular Rate Aiding Based on Robust Kalman Filter [J]. IEEE Access, 2019, 7: 51369-51378.
@@ -63,7 +63,7 @@ redirect_from:
 - **徐祥**, 徐大诚. 晃动基座下正向-正向回溯初始对准方法[J]. **宇航学报**, 2019, 40(08): 965-971.
 - **徐祥**, 史凡伟, 徐大诚, 富振铎. 基于参数识别的SINS/DVL初始对准方法[J]. **中国惯性技术学报**, 2019, 27(02): 176-180.
 
-#### 2018 年：
+## 2018 年：
 
 - **Xu Xiang**, Xu Xiaosu, Zhang Tao, Wang Zhicheng. In-Motion Filter-QUEST Alignment for Strapdown Inertial Navigation Systems [J]. **IEEE Transactions on Instrumentation and Measurement**, 2018, 67(8):1979-1993.
 - Zhang Tao, **Xu Xiang**, Wang Zhicheng. Spacecraft attitude estimation based on matrix Kalman filter and recursive cubature Kalman filter [J]. **Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering**, 2018, 232(16): 3024-3033.
@@ -71,14 +71,14 @@ redirect_from:
 - Zhu Yongyun, Zhang Tao, **Xu Xiang**. A Coarse-Alignment Method Based on the Optimal-REQUEST Algorithm [J]. Sensors, 2018, 18(1): 239. 
 - Wang Jian, Zhang Tao, **Xu Xiang**, Li Yao. A Variational Bayesian Based Strong Tracking Interpolatory Cubature Kalman Filter for Maneuvering Target Tracking [J]. IEEE Access, 2018, 6: 52544-52560.
 
-#### 2017 年：
+## 2017 年：
 
 - **Xu Xiang**, Xu Xiaosu, Zhang Tao, Li Yao, Wang Zhicheng. A Coarse Alignment Method Based on Digital Filters and Reconstructed Observation Vectors [J]. Sensors, 2017, 17(4): 709.
 - **Xu Xiang**, Xu Xiaosu, Yao Yiqing, Wang Zhicheng. In-motion coarse alignment method based on reconstructed observation vectors [J]. **Review of Scientific Instruments**, 2017, 88(3): 035001.
 - **Xu Xiang**, Xu Xiaosu, Zhang Tao, Li Yao, Tong Jinwu. A Kalman filter for SINS self-alignment based on vector observation [J]. Sensors, 2017, 17(2): 264.
 - Yao Yiqing, Xu Xiaosu, **Xu Xiang**. An IMM-Aided ZUPT methodology for an INS/DVL integrated navigation system [J]. Sensors, 2017, 17(9): 2030.
 
-#### 2016 年：
+## 2016 年：
 
 - **徐祥**, 徐晓苏, 张涛, 等. 一种改良 Kalman 滤波参数辨识粗对准方法[J]. **中国惯性技术学报**, 2016, 24(03): 320-324.
 - 徐晓苏, 周峰, 张涛, **徐祥**. 基于四元数自适应卡尔曼滤波的快速对准算法[J]. **中国惯性技术学报**, 2016, 24(04): 454-459.
