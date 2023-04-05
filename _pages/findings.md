@@ -16,13 +16,13 @@ redirect_from:
 
 ​		**简介**：MEMS传感器为[ADIS16470](https://www.analog.com/cn/products/adis16470.html)，双天线板卡为[司南K823](https://www.sinognss.com/K823.html)，主控芯片为[STM32H743VIT6](https://www.st.com/zh/microcontrollers-microprocessors/stm32h743vi.html)。定位定向精度如下表所示：
 
-|   参数   |   模式   | 指标            |
-| :------: | :------: | --------------- |
-| 位置精度 | RTK模式  | 0.01m(CEP)      |
-| 位置精度 | 单点模式 | 1.5m（CEP）     |
-| 速度精度 |    ——    | 0.01m/s         |
-| 姿态精度 |   俯仰   | 0.1°（RMS）     |
-| 姿态精度 |   横滚   | 0.1°（RMS）     |
+|   参数   |   模式   |      指标       |
+| :------: | :------: | :-------------: |
+| 位置精度 | RTK模式  |   0.01m(CEP)    |
+| 位置精度 | 单点模式 |   1.5m（CEP）   |
+| 速度精度 |    ——    |     0.01m/s     |
+| 姿态精度 |   俯仰   |   0.1°（RMS）   |
+| 姿态精度 |   横滚   |   0.1°（RMS）   |
 | 姿态精度 |   航向   | 0.06°（2m基线） |
 
 - 配套软件
