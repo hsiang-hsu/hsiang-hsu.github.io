@@ -18,9 +18,15 @@ redirect_from:
 
 # 学术论文
 
+## 2023年：
+
+- **Xu Xiang**, Zheng Xuehe, Li Yao, Yao Yiqing, Zhou Hui and Zhu Lihua. An Improved In-Motion Alignment Method for SINS/GPS With the Sliding Windows Integration [J]. **IEEE Transactions on Vehicular Technology**, Early Access.
+- Wang Yukun, Ning Xiuli, **Xu Xiang**. An Improved In-Motion Coarse Alignment Method for SINS/GPS Integration with Initial Velocity Error Suppression[J]. Sensors, MDPI AG, 2023, 23(7): 3662.
+- Yao Yiqing, **Xu Xiang**, Xu Xiaosu and Klein Itzik. Virtual Beam Aided SINS/DVL Tightly Coupled Integration Method With Partial DVL Measurements [J]. **IEEE Transactions on Vehicular Technology**, 2023, 72(1): 418-427.
+
 ## 2022 年：
 
-- Xu Tongxu, **Xu Xiang**, Xu Dacheng, Zou Zelan and Zhao Heming. A New Robust Filtering Method of GNSS/MINS Integrated System for Land Vehicle Navigation [J]. **IEEE Transactions on Vehicular Technology**, 2022, Early Access.
+- Xu Tongxu, **Xu Xiang**, Xu Dacheng, Zou Zelan and Zhao Heming. A New Robust Filtering Method of GNSS/MINS Integrated System for Land Vehicle Navigation [J]. **IEEE Transactions on Vehicular Technology**, 2022, 71(11): 11443-11453.
 - Huang Ling, **Xu Xiang**, Ge Haoran, Zhao Heming. Single-Axis Rotation Modulation Transverse SINS Based on Virtual Sphere Model in Polar Region [J]. **IEEE Sensors Journal**, 2022, 22(13): 13442-13450.
 - Huang Ling, **Xu Xiang**, Ge Haoran, Zhao Heming. Robust Unscented Quaternion Kalman Filter for Polar In-Motion Alignment and Virtual Polar Region Technology [J]. **IEEE Transactions on Instrumentation and Measurement**, 2022, 71: 1-10.
 - **Xu Xiang**, Ning Xiuli, Yao Yiqing, Li Kui. In-motion Coarse Alignment Method for SINS/GPS Integration in Polar Region [J]. **IEEE Transactions on Vehicular Technology**, 2022, 71(6): 6110-6118.
