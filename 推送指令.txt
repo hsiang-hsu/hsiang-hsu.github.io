@@ -1,0 +1,4 @@
+推送指令：
+ssh-add ~/.ssh/hsiang-hsu-GitHub
+ssh-add -K ~/.ssh/hsiang-hsu-GitHub
+ssh git@github.com 
