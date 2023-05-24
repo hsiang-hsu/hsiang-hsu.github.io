@@ -28,10 +28,14 @@ redirect_from:
 - 配套软件
 
 <div align=center>
-	<img src="..\images\MIMU_RTK_Monitor_V1.jpeg" style="zoom:30%;" />
+	<img src="..\images\MIMU_RTK_Monitor_V1-1.png" style="zoom:30%;" />
 </div>
 
-​		**简介**：持续开发中……
+<div align=center>
+	<img src="..\images\MIMU_RTK_Monitor_V1-2.png" style="zoom:30%;" />
+</div>		
+
+**简介**：可实现数据采集、存储、显示等功能。
 
 # 阵列式微传感系统
 
