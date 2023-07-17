@@ -15,6 +15,9 @@ redirect_from:
 * 《中国惯性技术学报》青年编委
 * 《导航定位与授时》青年编委
 * 中国卫星导航定位协会青年工作委员会委员
+* 中国惯性技术学会会员
+* 自动化学会会员
+* 江苏省仪器仪表学会会员
 * IEEE TIE，IEEE/ASME TM，IEEE TVT，IEEE TITS， IEEE TAES， IEEE TIM， IEEE TIV， Measurement，IEEE SJ等SCI学术期刊审稿人
 
 招生信息
