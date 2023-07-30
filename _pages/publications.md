@@ -10,18 +10,20 @@ redirect_from:
 ========
 
 - 国家自然科学基金面上项目，统一建模理论下SINS/DVL组合系统全域自主抗差导航方法研究与实现（52271346），2023.01~2026.12，**主持人**，在研。
-- 国家自然科学基金面上项目，硅微半球壳陀螺自校准Sigma-Delta测控机理及其单芯片关键技术研究（61974156），2020.01~2023.12，参与人，在研。 
+- 国家自然科学基金面上项目，硅微半球壳陀螺自校准Sigma-Delta测控机理及其单芯片关键技术研究（61974156），2020.01~2023.12，参与人，在研。
 - 国家自然科学基金青年项目，基于多种矢量视运动分析的抗干扰行进间粗对准方法研究（61803278），2019.01~2021.12，**主持人**，已结题。
 
 # 学术获奖
 
-- 2023年华为火花奖。
+- 2023年华为技术有限公司“火花奖”。
 
 # 学术论文
 
 ## 2023年：
 
 - **Xu Xiang**, Zheng Xuehe, Li Yao, Yao Yiqing, Zhou Hui and Zhu Lihua. An Improved In-Motion Alignment Method for SINS/GPS With the Sliding Windows Integration [J]. **IEEE Transactions on Vehicular Technology**, Early Access.
+- Wang Di, Wang Bing, Huang Haoqian, Yao Yiqing, **Xu Xiang** . Robust Filter Method for SINS/DVL/USBL Tight Integrated Navigation System [J]. **IEEE Sensors Journal**, 2023, 23(10): 10912-10923.
+- Wang Di, Wang Bing, Huang Haoqian, **Xu Xiang** and Yao Yiqing. A Novel Calibration Algorithm of SINS/USBL Navigation System Based on Smooth Variable Structure [J]. **IEEE Transactions on Instrumentation and Measurement**, 2023, 72: 1-14.
 - Wang Yukun, Ning Xiuli, **Xu Xiang**. An Improved In-Motion Coarse Alignment Method for SINS/GPS Integration with Initial Velocity Error Suppression[J]. Sensors, MDPI AG, 2023, 23(7): 3662.
 - Yao Yiqing, **Xu Xiang**, Xu Xiaosu and Klein Itzik. Virtual Beam Aided SINS/DVL Tightly Coupled Integration Method With Partial DVL Measurements [J]. **IEEE Transactions on Vehicular Technology**, 2023, 72(1): 418-427.
 
@@ -75,7 +77,7 @@ redirect_from:
 - **Xu Xiang**, Xu Xiaosu, Zhang Tao, Wang Zhicheng. In-Motion Filter-QUEST Alignment for Strapdown Inertial Navigation Systems [J]. **IEEE Transactions on Instrumentation and Measurement**, 2018, 67(8):1979-1993.
 - Zhang Tao, **Xu Xiang**, Wang Zhicheng. Spacecraft attitude estimation based on matrix Kalman filter and recursive cubature Kalman filter [J]. **Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering**, 2018, 232(16): 3024-3033.
 - Zhang Tao, Zhu Yongyun, **Xu Xiang**, Wang Jian, Li Yao. In-Motion Coarse Alignment Based on the Vector Observation for SINS [J]. **IEEE Transactions on Instrumentation and Measurement**, 2018, 68(10): 3740-3750.
-- Zhu Yongyun, Zhang Tao, **Xu Xiang**. A Coarse-Alignment Method Based on the Optimal-REQUEST Algorithm [J]. Sensors, 2018, 18(1): 239. 
+- Zhu Yongyun, Zhang Tao, **Xu Xiang**. A Coarse-Alignment Method Based on the Optimal-REQUEST Algorithm [J]. Sensors, 2018, 18(1): 239.
 - Wang Jian, Zhang Tao, **Xu Xiang**, Li Yao. A Variational Bayesian Based Strong Tracking Interpolatory Cubature Kalman Filter for Maneuvering Target Tracking [J]. IEEE Access, 2018, 6: 52544-52560.
 
 ## 2017 年：
