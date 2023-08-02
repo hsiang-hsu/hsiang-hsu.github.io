@@ -21,7 +21,8 @@ redirect_from:
 
 ## 2023年：
 
-- **Xu Xiang**, Zheng Xuehe, Li Yao, Yao Yiqing, Zhou Hui and Zhu Lihua. An Improved In-Motion Alignment Method for SINS/GPS With the Sliding Windows Integration [J]. **IEEE Transactions on Vehicular Technology**, Early Access.
+- **Xu Xiang**, Li Yao, Zhu Lihua, Yao Yiqing. Robust Attitude and Positioning Alignment Methods for SINS/DVL Integration Based on Sliding Window Improvements [J]. **IEEE Transactions on Industrial Electronics**, 2023, Early Access.
+- **Xu Xiang**, Zheng Xuehe, Li Yao, Yao Yiqing, Zhou Hui and Zhu Lihua. An Improved In-Motion Alignment Method for SINS/GPS With the Sliding Windows Integration [J]. **IEEE Transactions on Vehicular Technology**, 2023, Early Access.
 - Wang Di, Wang Bing, Huang Haoqian, Yao Yiqing, **Xu Xiang** . Robust Filter Method for SINS/DVL/USBL Tight Integrated Navigation System [J]. **IEEE Sensors Journal**, 2023, 23(10): 10912-10923.
 - Wang Di, Wang Bing, Huang Haoqian, **Xu Xiang** and Yao Yiqing. A Novel Calibration Algorithm of SINS/USBL Navigation System Based on Smooth Variable Structure [J]. **IEEE Transactions on Instrumentation and Measurement**, 2023, 72: 1-14.
 - Wang Yukun, Ning Xiuli, **Xu Xiang**. An Improved In-Motion Coarse Alignment Method for SINS/GPS Integration with Initial Velocity Error Suppression[J]. Sensors, MDPI AG, 2023, 23(7): 3662.
