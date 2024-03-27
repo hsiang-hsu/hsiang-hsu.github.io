@@ -47,12 +47,8 @@ redirect_from:
 
 ​		**简介**：MEMS加速度计为[ADXL355](https://www.analog.com/en/products/ADXL355.html)，MEMS磁传感器[RM3100](https://www.pnicorp.com/rm3100/)，主控芯片为[GD32F405RGT6](https://www.gigadevice.com/product/mcu/arm-cortex-m4/gd32f405rgt6.html)。航姿精度如下表所示：
 
-<table align=center>
-	<tr>
-		<td> 参数 </td>
-		<td> 模式 </td>
-		<td> 指标 </td>
-	</tr>
+<table style="text-align:center;">
+  <th> 参数 </th><th> 模式 </th><th> 指标 </th>
 	<tr>
 		<td rowspan="3"> 航向角 </td>
 		<td> 测量范围 </td>
@@ -80,6 +76,7 @@ redirect_from:
 		<td> ≤0.1°(RMS) </td>
 	</tr>
 </table>
+
 
 - 配套软件
 
