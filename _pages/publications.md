@@ -58,6 +58,7 @@ redirect_from:
 - **Xu Xiang**, Sun Yifan, Gui Jing, Yao Yiqing and Zhang Tao. A Fast Robust In-motion Alignment method for SINS with DVL Aided [J]. **IEEE Transactions on Vehicular Technology**, 2020, 69(4): 3816-3827.
 - Sun Yifan, **Xu Xiang**. Calibration of MEMS Triaxial Accelerometers Based on the Maximum Likelihood Estimation Method[J]. Mathematical Problems in Engineering, 2020, 2020.
 - Huang Ling, **Xu Xiang**, Zhao Heming, Ge Haoran. Transverse SINS/DVL Integrated Polar Navigation Algorithm Based on Virtual Sphere Model[J]. Mathematical Problems in Engineering, 2020, 2020.
+- Xu Tongxu,  **Xu Xiang** , Bu Feng, Xu Dacheng, and Zhao Heming, Three-position characterization for the adjustment of MEMS accelerometer scale factor [J], Measurement Science and Technology, 2020, 32(3): 1-10.
 - Yao Yiqing, Xu Xiaosu, Hou Lanhua, Deng Kai and **Xu Xiang**, A Simple and Precise Correction Method for DVL Measurements under the Dynamic Environment [J], **IEEE Transactions on Vehicular Technology**, 2020, 69(10): 10750 - 10758.
 - Yao Yiqing, Xu Xiaosu, Zhu Yongyun, **Xu Xiang**. In-motion coarse alignment method for SINS/DVL with the attitude dynamics [J]. **ISA Transactions**, 2020, 105: 377-386.
 - Bu Feng, Wang Xi, Fan Bo, Guo Shuwen, Xu Dacheng, **Xu Xiang** and Zhao Heming. Noise model considering electrical feed-through under force rebalance closed-loop detection of MEMS gyroscope [J]. **Journal of Micromechanics and Microengineering**, 2020, 30(5): 055007-055017.
