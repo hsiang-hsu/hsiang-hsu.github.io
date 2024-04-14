@@ -19,10 +19,13 @@ redirect_from:
 
 # 学术论文
 
+## 2024年：
+
+- **Xu Xiang**, Li Yao, Zhu Lihua, Yao Yiqing. Robust Attitude and Positioning Alignment Methods for SINS/DVL Integration Based on Sliding Window Improvements [J]. **IEEE Transactions on Industrial Electronics**, 2024, 71(7): 8038-8046.
+
 ## 2023年：
 
 - Yao Yiqing, Shen Yilei, **Xu Xiang**, Deng Kai, and Xu Xiaosu. A Modified Smoothing Scheme for Water Current-Aided SINS/DVL Integration System[J]. **IEEE Sensors Journal**, 2023, 23(21): 26366-26374.
-- **Xu Xiang**, Li Yao, Zhu Lihua, Yao Yiqing. Robust Attitude and Positioning Alignment Methods for SINS/DVL Integration Based on Sliding Window Improvements [J]. **IEEE Transactions on Industrial Electronics**, 2023, Early Access.
 - **Xu Xiang**, Zheng Xuehe, Li Yao, Yao Yiqing, Zhou Hui and Zhu Lihua. An Improved In-Motion Alignment Method for SINS/GPS With the Sliding Windows Integration [J]. **IEEE Transactions on Vehicular Technology**, 2023, 72(10): 12491-12499.
 - Wang Di, Wang Bing, Huang Haoqian, Yao Yiqing, **Xu Xiang** . Robust Filter Method for SINS/DVL/USBL Tight Integrated Navigation System [J]. **IEEE Sensors Journal**, 2023, 23(10): 10912-10923.
 - Wang Di, Wang Bing, Huang Haoqian, **Xu Xiang** and Yao Yiqing. A Novel Calibration Algorithm of SINS/USBL Navigation System Based on Smooth Variable Structure [J]. **IEEE Transactions on Instrumentation and Measurement**, 2023, 72: 1-14.
