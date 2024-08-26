@@ -64,6 +64,9 @@
 .ai-ceur-box:before {
   content: "\e813";
 }
+.ai-coding:before {
+  content: "\e900";
+}
 .ai-courser:before {
   content: "\e814";
 }
