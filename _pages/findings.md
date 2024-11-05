@@ -117,12 +117,8 @@ redirect_from:
 - 配套软件
 
 <div align=center>
-	<img src="..\images\AHRSMonitor-1.jpg" style="zoom:15%;" />
+	<img src="..\images\demo.gif" style="zoom:35%;" />
 </div>
-
-<div align=center>
-	<img src="..\images\AHRSMonitor-2.jpg" style="zoom:15%;" />
-</div>		
 
 **简介**：可实现数据采集、存储、显示等功能。
 
