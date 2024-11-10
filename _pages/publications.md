@@ -22,6 +22,7 @@ redirect_from:
 ## 2024年：
 
 - **Xu Xiang**, Li Yao, Zhu Lihua, Yao Yiqing. Robust Attitude and Positioning Alignment Methods for SINS/DVL Integration Based on Sliding Window Improvements [J]. **IEEE Transactions on Industrial Electronics**, 2024, 71(7): 8038-8046.
+- Xu Tongxu, **Xu Xiang**, Zhang Jingya, Ye Hualong. Thermal calibration for triaxial gyroscope of MEMS-IMU based on segmented systematic method [J]. Scientific Reports, 14, 23802 (2024). [pdf](https://doi.org/10.1038/s41598-024-74472-8)
 
 ## 2023年：
 
