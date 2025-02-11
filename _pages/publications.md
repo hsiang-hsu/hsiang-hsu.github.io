@@ -19,10 +19,15 @@ redirect_from:
 
 # 学术论文
 
+## 2025年：
+
+- **Xu Xiang**, Wu Zijing, Yao Yiqing, Li Yao, Zhu Lihua and Wang Di. In-Motion Polar Alignment Method With Unified Navigation Mechanization and Transverse Virtual Polar Region Technology [J]. **IEEE Transactions on Instrumentation and Measurement**, 2025, 74, 1-13.
+
 ## 2024年：
 
 - **Xu Xiang**, Li Yao, Zhu Lihua, Yao Yiqing. Robust Attitude and Positioning Alignment Methods for SINS/DVL Integration Based on Sliding Window Improvements [J]. **IEEE Transactions on Industrial Electronics**, 2024, 71(7): 8038-8046.
 - Xu Tongxu, **Xu Xiang**, Zhang Jingya, Ye Hualong. Thermal calibration for triaxial gyroscope of MEMS-IMU based on segmented systematic method [J]. Scientific Reports, 14, 23802 (2024). [pdf](https://doi.org/10.1038/s41598-024-74472-8)
+- Xu Tongxu, **Xu Xiang**, Ye Hualong, et al. A model-based and efficient parameters correction method for low-cost MEMS IMU[J]. Measurement Science and Technology, 2024, 36(1): 015036.
 
 ## 2023年：
 
