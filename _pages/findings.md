@@ -11,7 +11,7 @@ redirect_from:
 - 实物样机
 
 <div align=center>
-	<img src="..\images\MIMU_RTK_V1.jpg" style="zoom:20%;" />
+	<img src="..\images\MIMU_RTK_V1.png" style="zoom:80%;" />
 </div>
 
 ​		**简介**：MEMS传感器为[ADIS16470](https://www.analog.com/cn/products/adis16470.html)，双天线板卡为[司南K823](https://www.sinognss.com/K823.html)，主控芯片为[STM32H743VIT6](https://www.st.com/zh/microcontrollers-microprocessors/stm32h743vi.html)。定位定向精度如下表所示：
@@ -69,15 +69,15 @@ redirect_from:
 
 **简介**：可实现数据采集、存储、显示等功能。
 
-# 低成本AHRS系统
+# 高精度电子罗盘系统
 
 - 实物样机
 
 <div align=center>
-	<img src="..\images\AHRS.png" style="zoom:30%;" />
+	<img src="..\images\CMP-100.png" style="zoom:80%;" />
 </div>
 
-​		**简介**：MEMS加速度计为[ADXL355](https://www.analog.com/en/products/ADXL355.html)，MEMS磁传感器[RM3100](https://www.pnicorp.com/rm3100/)，主控芯片为[GD32F405RGT6](https://www.gigadevice.com/product/mcu/arm-cortex-m4/gd32f405rgt6.html)。航姿精度如下表所示：
+​		**简介**：MEMS IMU为[ASM330](https://www.st.com/en/mems-and-sensors/asm330lhh.html)，MEMS磁传感器[RM3100](https://www.pnicorp.com/rm3100/)，主控芯片为[STM32F405RGT6](https://www.st.com/en/microcontrollers-microprocessors/stm32f405rg.html)。航姿精度如下表所示：
 
 <table style="text-align:center;">
   <tr> 
@@ -97,6 +97,59 @@ redirect_from:
 	<tr>
 		<td> 水平校准 </td>
 		<td> ≤0.2°(RMS)@水平 </td>
+	</tr>
+	<tr>
+		<td rowspan="3"> 姿态角 </td>
+		<td> 测量范围 </td>
+		<td> -180~180° </td>
+	</tr>
+	<tr>
+		<td> 俯仰角 </td>
+		<td> ≤0.02°(RMS) </td>
+	</tr>
+	<tr>
+		<td> 横滚角 </td>
+		<td> ≤0.02°(RMS) </td>
+	</tr>
+</table>
+
+
+- 配套软件
+
+<div align=center>
+	<img src="..\images\AHRS-monitor.gif" style="zoom:35%;" />
+</div>
+
+**简介**：可实现数据采集、存储、显示等功能。
+
+# 国产化电子罗盘系统
+
+- 实物样机
+
+<div align=center>
+	<img src="..\images\AHRS.png" style="zoom:30%;" />
+</div>
+
+​		**简介**：MEMS IMU均为自主可控器件设计，可实现三维姿态测量。航姿精度如下表所示：
+
+<table style="text-align:center;">
+  <tr> 
+  	<td>参数 </td>
+  	<td> 模式 </td>
+  	<td> 指标 </td>
+  </tr>
+	<tr>
+		<td rowspan="3"> 航向角 </td>
+		<td> 测量范围 </td>
+		<td> 0~360° </td>
+	</tr>
+	<tr>
+		<td> 空间校准 </td>
+		<td> ≤1.0°(RMS)@水平 </td>
+	</tr>
+	<tr>
+		<td> 水平校准 </td>
+		<td> ≤0.5°(RMS)@水平 </td>
 	</tr>
 	<tr>
 		<td rowspan="3"> 姿态角 </td>
