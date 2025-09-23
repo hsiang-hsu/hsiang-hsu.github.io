@@ -1,64 +1,49 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+工作经历
+===========================
 
-{% include base_path %}
+* 2022年2月—至今: 副教授
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+  * 南京理工大学，自动化学院
+  * 教学/ 科研
+  * 多源信息融合系统研究与开发
+* 2021年8月—2022年1月: 副研究员
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * 苏州大学，电子信息学院
+  * 教学/ 科研
+  * 惯性导航初始对准，极区导航，导航系统设计
+* 2018年8月—2021年7月: 助理研究员
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * 苏州大学，电子信息学院
+  * 教学/ 科研
+  * 惯性导航初始对准，极区导航，导航系统设计
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+教育经历
+=====================
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2014年9月—2018年6月 东南大学仪器科学与工程学院 博士研究生
+* 
+
+工作技能
+==================
+
+* 系统开发
+  * MDK
+  * CCS
+  * Altium Designer
+* 嵌入式开发
+  * VxWorks
+  * Free-RTOS
+  * RT-Thread
+  * uCOS
+* 计算机语言
+  * C/C++
+  * Matlab
+  * Python
