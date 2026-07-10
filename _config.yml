@@ -300,8 +300,9 @@ defaults:
 
 # Findings category display order
 findings_categories:
+  - "惯性测量系统"
   - "组合导航系统"
-  - "阵列微传感系统"
+  - "阵列传感系统"
   - "电子罗盘系统"
   - "室内定位系统"
   - "组合导航软件"

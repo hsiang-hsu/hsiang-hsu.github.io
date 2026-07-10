@@ -1,5 +1,5 @@
 ---
-title: "微惯导组合导航系统"
+title: "MINS-001 型组合导航系统"
 category: "组合导航系统"
 header:
   teaser: "SINS_GPS1.png"
