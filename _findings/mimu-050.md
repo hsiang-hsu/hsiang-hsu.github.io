@@ -2,7 +2,7 @@
 title: "MIMU-050 型微惯性测量系统"
 category: "惯性测量系统"
 header:
-  teaser: "MIMU-050.png"
+  teaser: "MIMU-050.jpeg"
 excerpt: "采用高性能MEMS传感器，自主全温误差标定。"
 tagline: "MEMS惯性测量系统"
 ---
@@ -10,7 +10,7 @@ tagline: "MEMS惯性测量系统"
 ## 实物样机
 
 <div align=center>
-  <img src="/images/MIMU-050.png" style="zoom:8%;" />
+  <img src="/images/MIMU-050.jpeg" style="zoom:30%;" />
 </div>
 **简介**：采用高性能MEMS传感器，体积小，功耗低。完全自主全温误差标定，具备高性能加速度、角速度测量。性能指标如下表所示：
 
