@@ -21,49 +21,36 @@ tagline: "MEMS惯性测量系统"
     <td> 指标 </td>
   </tr>
   <tr>
-    <td rowspan="3"> 位置精度 </td>
-    <td> RTK模式 </td>
-    <td> 0.01m(CEP) </td>
+    <td rowspan="3"> 陀螺仪 </td>
+    <td> 零偏稳定性（Allan）（x/y/z） </td>
+    <td> 0.0249/0.0342/0.0384 deg/h</td>
   </tr>
   <tr>
-    <td> PPP模式 </td>
-    <td> 0.2m（CEP） </td>
+    <td> 随机游走 （x/y/z） </td>
+    <td> 0.00250/0.00194/0.00316 deg/sqrt(h) </td>
   </tr>
   <tr>
-    <td> 单点模式 </td>
-    <td> 1.5m（CEP） </td>
+    <td> 量程 </td>
+    <td> ±300 deg/s </td>
   </tr>
   <tr>
-    <td rowspan="3"> 速度精度 </td>
-    <td> RTK模式 </td>
-    <td> 0.01 m/s </td>
+    <td rowspan="3"> 加速度计 </td>
+    <td> 零偏稳定性（Allan）（x/y/z） </td>
+    <td> 10.211/11.275/10.566 ug </td>
   </tr>
   <tr>
-    <td> PPP模式 </td>
-    <td> 0.02m/s（CEP） </td>
+    <td> 随机游走 （x/y/z） </td>
+    <td> 52.7/52.8/50.9 ug/sqrt(Hz) </td>
   </tr>
   <tr>
-    <td> 单点模式 </td>
-    <td> 0.1 m/s </td>
-  </tr>
-  <tr>
-    <td rowspan="3"> 航姿精度 </td>
-    <td> 俯仰角 </td>
-    <td> 0.02°（RMS） </td>
-  </tr>
-  <tr>
-    <td> 横滚角 </td>
-    <td> 0.02°(RMS) </td>
-  </tr>
-  <tr>
-    <td> 航向角 </td>
-    <td> 0.1°（2m基线） </td>
+    <td> 量程 </td>
+    <td> ±8 g </td>
   </tr>
 </table>
 
 ### 电气特性及接口尺寸
 
-- 尺寸：40mm×46mm×32mm
-- 重量：75g
-- 功耗：小于3W，供电电压3V~24V
-- 接口：1个PPS，1个EVENT，1个232，1个422
+- 尺寸：20mm×22mm×7mm
+- 重量：10g
+- 功耗：小于0.5W，供电电压5V
+- 接口：1个PPS，1个EVENT，1个422
