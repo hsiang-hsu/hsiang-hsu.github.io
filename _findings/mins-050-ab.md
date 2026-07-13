@@ -2,7 +2,7 @@
 title: "MINS-050 A/B型组合导航系统"
 category: "组合导航系统"
 header:
-  teaser: "MINS-050A_B.png"
+  teaser: "MINS-050A_B.jpeg"
 excerpt: "采用高性能MEMS传感器，高精度双天线卫星接收机板卡，支持三频定位，具备定位、定向、定姿及自主导航性能。"
 tagline: "MEMS组合导航系统"
 ---
@@ -10,7 +10,7 @@ tagline: "MEMS组合导航系统"
 ## 实物样机
 
 <div align=center>
-  <img src="/images/MINS-050A_B.png" style="zoom:8%;" />
+  <img src="/images/MINS-050A_B.jpeg" style="zoom:30%;" />
 </div>
 
 **简介**：采用高性能MEMS传感器，高精度双天线卫星接收机板卡，支持三频定位，具备定位、定向、定姿及自主导航性能。定位定向精度如下表所示：
