@@ -10,7 +10,7 @@ tagline: "MEMS惯导/GPS组合导航"
 ## 演示样机
 
 <div align=center>
-  <img src="/images/MINS-001.jpeg" style="zoom:80%;" />
+  <img src="/images/MINS-001.jpeg" style="zoom:30%;" />
 </div>
 
 **简介**：可实现微惯导及GPS数据采集与导航计算。

@@ -2,7 +2,7 @@
 title: "OINS-050 型小光纤组合导航系统"
 category: "组合导航系统"
 header:
-  teaser: "OINS-050.png"
+  teaser: "OINS-050.jpeg"
 excerpt: "采用50型光纤惯导系统，高精度双天线卫星接收机板卡，支持三频定位，具备定位、定向、定姿及自主导航性能。"
 tagline: "小光纤组合导航系统"
 ---
@@ -10,7 +10,7 @@ tagline: "小光纤组合导航系统"
 ## 实物样机
 
 <div align=center>
-  <img src="/images/OINS-050.png" style="zoom:80%;" />
+  <img src="/images/OINS-050.jpeg" style="zoom:50%;" />
 </div>
 
 **简介**：采用50型光纤惯导系统，高精度双天线卫星接收机板卡，支持三频定位，具备定位、定向、定姿及自主导航性能。具备里程计、声学多普勒测速仪等辅助信息接入。定位定向精度如下表所示：
