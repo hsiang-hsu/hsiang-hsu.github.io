@@ -306,6 +306,8 @@ findings_categories:
   - "电子罗盘系统"
   - "室内定位系统"
   - "组合导航软件"
+  - "无人平台载具"
+  
 
 # Sass/SCSS
 sass:
