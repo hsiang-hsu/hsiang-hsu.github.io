@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div align=center>
-  <img src="../images/LOGO.png" style="zoom:10%;" />
+  <img src="../images/LOGOV1.jpeg" style="zoom:50%;" />
 </div>
 
 # 个人简介
