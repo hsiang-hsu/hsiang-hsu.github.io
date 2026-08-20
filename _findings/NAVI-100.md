@@ -17,7 +17,7 @@ tagline: "便携式导航计算机"
 
 <table style="text-align:center;">
   <tr>
-    <td>参数 </td>
+    <td> 接口 </td>
     <td> 数量 </td>
     <td> 用途 </td>
     <td> 默认参数 </td>
