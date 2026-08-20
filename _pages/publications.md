@@ -19,9 +19,15 @@ redirect_from:
 
 # 学术论文
 
+## 2026年：
+
+- Xu Tongxu, <b> Xu Xiang </b>, Ye Hualong, and Zhang Lingling. A New Position Prediction Method Based on ANFIS for MINS/GNSS Integrated Navigation System During GNSS Outages [J]. Electronics, 2026,  15(14): 3117. 
+  
 ## 2025年：
 
-- **Xu Xiang**, Wu Zijing, Yao Yiqing, Li Yao, Zhu Lihua and Wang Di. In-Motion Polar Alignment Method With Unified Navigation Mechanization and Transverse Virtual Polar Region Technology [J]. **IEEE Transactions on Instrumentation and Measurement**, 2025, 74, 1-13.
+- <b> Xu Xiang </b>, Wu Zijing, Yao Yiqing, Li Yao, Zhu Lihua and Wang Di. In-Motion Polar Alignment Method With Unified Navigation Mechanization and Transverse Virtual Polar Region Technology [J]. **IEEE Transactions on Instrumentation and Measurement**, 2025, 74, 1-13.
+- Hu Bin, Zhang Tao, Zhang Liang, Yao Yiqing, <b> Xu Xiang </b>, Xia Maodong, Li Peijuan. Fast self-calibration and self-alignment of triaxis RINS under marine mooring condition [J]. Measurement Science and Technology, 2025, 36(8):0957-0233.
+- Yao Yiqing, Meng Fanchen, Pan Shaohua, <b> Xu Xiang </b>, Nan Zihan, Xu Xiaosu. SINS in-motion coarse alignment solution with partial DVL measurements[J]. IEEE Transactions on Instrumentation and Measurement, 2025, 74: 1-10.
 
 ## 2024年：
 
@@ -31,8 +37,8 @@ redirect_from:
 
 ## 2023年：
 
-- Yao Yiqing, Shen Yilei, **Xu Xiang**, Deng Kai, and Xu Xiaosu. A Modified Smoothing Scheme for Water Current-Aided SINS/DVL Integration System[J]. **IEEE Sensors Journal**, 2023, 23(21): 26366-26374.
 - **Xu Xiang**, Zheng Xuehe, Li Yao, Yao Yiqing, Zhou Hui and Zhu Lihua. An Improved In-Motion Alignment Method for SINS/GPS With the Sliding Windows Integration [J]. **IEEE Transactions on Vehicular Technology**, 2023, 72(10): 12491-12499.
+- Yao Yiqing, Shen Yilei, **Xu Xiang**, Deng Kai, and Xu Xiaosu. A Modified Smoothing Scheme for Water Current-Aided SINS/DVL Integration System[J]. **IEEE Sensors Journal**, 2023, 23(21): 26366-26374.
 - Wang Di, Wang Bing, Huang Haoqian, Yao Yiqing, **Xu Xiang** . Robust Filter Method for SINS/DVL/USBL Tight Integrated Navigation System [J]. **IEEE Sensors Journal**, 2023, 23(10): 10912-10923.
 - Wang Di, Wang Bing, Huang Haoqian, **Xu Xiang** and Yao Yiqing. A Novel Calibration Algorithm of SINS/USBL Navigation System Based on Smooth Variable Structure [J]. **IEEE Transactions on Instrumentation and Measurement**, 2023, 72: 1-14.
 - Wang Yukun, Ning Xiuli, **Xu Xiang**. An Improved In-Motion Coarse Alignment Method for SINS/GPS Integration with Initial Velocity Error Suppression[J]. Sensors, MDPI AG, 2023, 23(7): 3662.
@@ -40,11 +46,11 @@ redirect_from:
 
 ## 2022 年：
 
+- <b> Xu Xiang </b>, Ning Xiuli, Yao Yiqing, Li Kui. In-motion Coarse Alignment Method for SINS/GPS Integration in Polar Region [J]. <b> IEEE Transactions on Vehicular Technology </b>, 2022, 71(6): 6110-6118.
+- <b> Xu Xiang </b> , Sun Yifan, Yao Yiqing and Zhang Tao. A Robust In-Motion Optimization-Based Alignment for SINS/GPS Integration [J], <b> IEEE Transactions on Intelligent Transportation Systems </b>, 2022, 23(5): 4362-4372.
 - Xu Tongxu, **Xu Xiang**, Xu Dacheng, Zou Zelan and Zhao Heming. A New Robust Filtering Method of GNSS/MINS Integrated System for Land Vehicle Navigation [J]. **IEEE Transactions on Vehicular Technology**, 2022, 71(11): 11443-11453.
 - Huang Ling, **Xu Xiang**, Ge Haoran, Zhao Heming. Single-Axis Rotation Modulation Transverse SINS Based on Virtual Sphere Model in Polar Region [J]. **IEEE Sensors Journal**, 2022, 22(13): 13442-13450.
 - Huang Ling, **Xu Xiang**, Ge Haoran, Zhao Heming. Robust Unscented Quaternion Kalman Filter for Polar In-Motion Alignment and Virtual Polar Region Technology [J]. **IEEE Transactions on Instrumentation and Measurement**, 2022, 71: 1-10.
-- **Xu Xiang**, Ning Xiuli, Yao Yiqing, Li Kui. In-motion Coarse Alignment Method for SINS/GPS Integration in Polar Region [J]. **IEEE Transactions on Vehicular Technology**, 2022, 71(6): 6110-6118.
-- **Xu Xiang**, Sun Yifan, Yao Yiqing and Zhang Tao. A Robust In-Motion Optimization-Based Alignment for SINS/GPS Integration [J], **IEEE Transactions on Intelligent Transportation Systems**, 2022, 23(5): 4362-4372.
 - Yao, Yiqing, **Xu Xiang**, Xu Xiaosu, Zhang Tao. A Staggered Grid based Water Current aided SINS/DVL Integration Solution for Mid Water Navigation [J]. **IEEE Sensors Journal**, 2022, 22(13): 13136-13143.
 - Gui Jing, **Xu Xiang**, Zhao Heming. Heading constraint algorithm for Foot-mounted PNS using low-cost IMU [J]. **Journal of Systems Engineering and Electronics**, 2022, 33(3): 727-736.
 - 邹泽兰, 徐同旭, **徐祥**, 赵鹤鸣. 基于两步修正法的MEMS三轴陀螺仪标定方法[J]. **仪器仪表学报**, 2022, 43(04):191-198.
@@ -106,6 +112,9 @@ redirect_from:
 
 # 授权专利
 
+- <b> 徐祥 </b>. ⼀种DVL位置对准⽅法. 2022.09.20-2025.09.16(申请号：CN202211424530.X，专利号：ZL202211424530.X，授权公告号：CN115730435B)。
+- <b> 徐祥 </b>. 基于变积分长度的动基座初始对准方法、系统、设备及介质. 2022.09.20-2025.09.16(申请号：CN202211143355.7，专利号：ZL202211143355.7，授权公告号：CN115507877B)。
+- <b> 徐祥 </b>. 初速度扰动消除极区动基座对准方法. 2022.04.18-2025.11.21(申请号：CN202210405933.3，专利号：ZL 202210405933.3，授权公告号：CN114910097B)。
 - **徐祥**，郭泽涛，朱琳，桂靖. 比力微分的位置法DVL误差标定方法及系统. 2019.12.19-2023.11.24(申请号：CN201911317845.2，专利号：ZL201911317845.2，授权公告号：CN110987018B)。
 - **徐祥**，李凤，陈洋豪. 虚拟圆球模型下极区惯性导航相位调制阻尼方法及系统. 2021.10.12-2023.03.07(申请号：CN202111194989.0，专利号：ZL202111194989.0，授权公告号：CN114001731B)。
 - **徐祥**，孙逸帆，李风，陈洋豪. 磁力计信息辅助的MEMS陀螺仪标定方法及标定系统. 2021.01.27-2022.12.06(申请号：CN202110113501.0，专利号：ZL202110113501.0，授权公告号：CN112945271B)。
@@ -125,6 +134,10 @@ redirect_from:
 
 # 学术交流
 
+- 2025年4th Conference on Fully Actuated System Theory and Applications (FASTA), 南京, 中国。海报论文：Variational Bayesian Kalman Filtering Algorithm for GPS/INS Integrated Navigation System.
+- 2025年4th Conference on Fully Actuated System Theory and Applications (FASTA), 南京, 中国。海报论文：Online Allan Variance Noise Coefficient Estimation Method Based on Iterative Least Squares.
+- 2024年International Conference on Advanced Unmanned Aerial Systems (ICAUAS), 南昌, 中国。海报论文：A Union AHRS and Calibration Method for MEMS Sensors.
+- 2024年International Conference on Guidance, Navigation and Control (ICGNC), 长沙, 中国。 海报论文：An Improved Coarse Alignment Method with Parameter Identification and Bias Compensation.
 - 2021年第二届人工智能时代的感知、测量与数据分析国际会议（ICSMD），南京，中国。汇报论文：Research on the Noises Analysis of the MEMS Inertial Sensor Array。
 - 2021年第四届IEEE国际无人系统大会（ICUS），北京（线上），中国。汇报论文：A Magnetic Vector Aided Calibration Method for MEMS Gyroscope
 - 2020年导航定位年会（IEEE/ION PLANS），波特兰（线上），美国。汇报论文：Research on the Calibrated Method for MEMS Magnetometer Arrays
