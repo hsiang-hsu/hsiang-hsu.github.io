@@ -21,7 +21,9 @@ redirect_from:
 
 ## 2026年：
 
-- Xu Tongxu, <b> Xu Xiang </b>, Ye Hualong, and Zhang Lingling. A New Position Prediction Method Based on ANFIS for MINS/GNSS Integrated Navigation System During GNSS Outages [J]. Electronics, 2026,  15(14): 3117. 
+- Zhang Bo, <b> Xu Xiang </b>, Wu Zhangyi, Wang Yiren, Xiong Zhu and Wang Junpeng. A High-Precision System-Level Calibration Method for IMU Full Parameters Estimation Based on a Simplified Ten-Position Rotation Scheme [J]. <b> IEEE Transactions on Instrumentation and Measurement </b>, 2026, 75, 9537813-9537813.
+
+- Xu Tongxu, <b> Xu Xiang </b>, Ye Hualong, and Zhang Lingling. A New Position Prediction Method Based on ANFIS for MINS/GNSS Integrated Navigation System During GNSS Outages [J]. Electronics, 2026, 15(14): 3117. 
   
 ## 2025年：
 
