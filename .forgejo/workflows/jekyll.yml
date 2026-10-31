@@ -1,0 +1,43 @@
+name: Build Jekyll
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      JEKYLL_ENV: production
+      BUNDLE_PATH: vendor/bundle
+      DEPLOY_DIR: 'local/central'
+
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install dependencies
+        run: |
+          apt update && apt install -y ruby-full ruby-bundler
+
+      - name: Install gems
+        run: bundle install
+
+      - name: Build
+        run: bundle exec jekyll b
+
+      - uses: actions/checkout@v6
+        with:
+          repository: ${{ secrets.DEPLOY_REPO }}
+          token: ${{ secrets.DEPLOY_TOKEN }}
+          path: ${{ env.DEPLOY_DIR }}
+
+      - name: Deploy
+        run: |
+          rm -rf ${DEPLOY_DIR}/hsiang-hsu.github.io
+          cp -R _site ${DEPLOY_DIR}/hsiang-hsu.github.io
+          rev=$(printf '%s@%.12s' "${FORGEJO_REPOSITORY}" "${FORGEJO_SHA}")
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C ${DEPLOY_DIR} add -A
+          git -C ${DEPLOY_DIR} commit -m "Sync $rev at $(date +%FT%T%z)"
+          git -C ${DEPLOY_DIR} push --all
